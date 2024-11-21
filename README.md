@@ -51,3 +51,7 @@ Our application leverages a combination of modern machine learning frameworks an
 We performed exploratory data analysis in the `EDA` notebook.
 We used the python notebook `model_v1` to generate the embedings of the images.
 Then, we used multipler other python notebooks (such as `main_inference`) to try out different methods of predicting the test values. 
+
+## Links to files:
+- Image embeddings: [image_embeddings.pt](https://1drv.ms/u/c/94bc67b31355db70/EYzshQJV6txIm2D4Ydo44FUB3Kj41AqF8Ska-9XhaJdOwA?e=U77b9s)
+- Test image embeddings: [image_embeddings_test.pt](https://1drv.ms/u/c/94bc67b31355db70/EaM0GwDEV8tFv5Y68R65-1wBUWlgbUR4QfQpYIaUfVjRDA?e=bamz2o)
